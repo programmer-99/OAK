@@ -1,0 +1,13 @@
+E:\5th semester\Compiler Construction\OAK\bin\Debug\netcoreapp3.1\OAK.exe
+E:\5th semester\Compiler Construction\OAK\bin\Debug\netcoreapp3.1\OAK.deps.json
+E:\5th semester\Compiler Construction\OAK\bin\Debug\netcoreapp3.1\OAK.runtimeconfig.json
+E:\5th semester\Compiler Construction\OAK\bin\Debug\netcoreapp3.1\OAK.runtimeconfig.dev.json
+E:\5th semester\Compiler Construction\OAK\bin\Debug\netcoreapp3.1\OAK.dll
+E:\5th semester\Compiler Construction\OAK\bin\Debug\netcoreapp3.1\OAK.pdb
+E:\5th semester\Compiler Construction\OAK\obj\Debug\netcoreapp3.1\OAK.csprojAssemblyReference.cache
+E:\5th semester\Compiler Construction\OAK\obj\Debug\netcoreapp3.1\OAK.AssemblyInfoInputs.cache
+E:\5th semester\Compiler Construction\OAK\obj\Debug\netcoreapp3.1\OAK.AssemblyInfo.cs
+E:\5th semester\Compiler Construction\OAK\obj\Debug\netcoreapp3.1\OAK.csproj.CoreCompileInputs.cache
+E:\5th semester\Compiler Construction\OAK\obj\Debug\netcoreapp3.1\OAK.dll
+E:\5th semester\Compiler Construction\OAK\obj\Debug\netcoreapp3.1\OAK.pdb
+E:\5th semester\Compiler Construction\OAK\obj\Debug\netcoreapp3.1\OAK.genruntimeconfig.cache
