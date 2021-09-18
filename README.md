@@ -1,2 +1,2 @@
 # OAK 
-Lexical Analyzer code in C#
+Lexical Analyzer & Syantax Analyzer code in C#
